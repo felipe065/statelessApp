@@ -1,16 +1,15 @@
-# stateless_app
+# Stateless_app
 
-A new Flutter project.
+Aplicación tipo Stateles empleando el uso de Widgets como; Cards, Containers y Columns. Esto sirve para poder optimizar el código en diversas áreas.
 
-## Getting Started
+## Resultados
 
-This project is a starting point for a Flutter application.
+[![Stateless.png](https://i.postimg.cc/RF9WR8bk/Stateless.png)](https://postimg.cc/5H799PJg)
 
-A few resources to get you started if this is your first Flutter project:
+## Datos de la Materia 
+- Nombre: Felipe Paredes Pérez
+- Cuatrimestre: Décimo
+- Nombre de la Carrera: Ingenieria en Desarrollo y Gestión de Software
+- Materia: Desarrollo Móvil Integral
+- Docente: M.T.I. Marco Antonio Ramírez Hérnadez
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
